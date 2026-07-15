@@ -2,3 +2,6 @@ this is first line of auto
 Third line of main
 fifth line main
 sixth line main
+Third line of main
+fourth line of cab
+another line for cab
