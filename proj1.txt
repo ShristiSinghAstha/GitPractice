@@ -1,3 +1,4 @@
+this is first line of auto
 Third line of main
 fifth line main
 sixth line main
